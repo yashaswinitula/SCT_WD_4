@@ -1,9 +1,12 @@
 📝 To-Do Web App
 SkillCraft Technology – Task 04
 A modern, responsive To-Do Web Application that allows users to manage daily tasks efficiently. The app supports adding, editing, deleting, completing tasks, setting date & time, and filtering tasks. All data is stored using Local Storage, so tasks remain saved even after refreshing the page.
-🚀 Live Demo
 
+🚀 Live Demo
 https://yashaswinitula.github.io/SCT_WD_4/
+
+------
+
 📸 Screenshots
 <img width="1885" height="904" alt="Screenshot 2025-12-24 112813" src="https://github.com/user-attachments/assets/a3107e50-49a5-49b2-9172-90648799a469" />
 
