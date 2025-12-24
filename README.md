@@ -59,6 +59,8 @@ Task is removed from the list and storage
 All → Shows all tasks
 Active → Shows incomplete tasks
 Completed → Shows finished tasks
+
+
 💾 Data Storage
 This app uses browser Local Storage to store tasks:
 Tasks remain saved even after page refresh
